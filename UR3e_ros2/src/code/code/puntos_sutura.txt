@@ -1,0 +1,18 @@
+Coordenadas de puntos de sutura
+Total pares: 3
+----------------------------
+Par #1:
+  Entrada: (-1.0321, 0.3922, -0.2366)
+  Salida: (-1.0168, 0.3922, -0.2494)
+  Distancia: 0.0200
+
+Par #2:
+  Entrada: (-1.0450, 0.3933, -0.2495)
+  Salida: (-1.0296, 0.3933, -0.2623)
+  Distancia: 0.0200
+
+Par #3:
+  Entrada: (-1.0620, 0.3945, -0.2611)
+  Salida: (-1.0467, 0.3945, -0.2740)
+  Distancia: 0.0200
+
