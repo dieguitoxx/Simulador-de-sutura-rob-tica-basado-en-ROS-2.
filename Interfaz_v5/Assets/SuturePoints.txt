@@ -1,0 +1,19 @@
+Coordenadas de puntos de sutura
+Fecha: 8/17/2025 1:43:06 AM
+Total pares: 3
+----------------------------
+Par #1:
+  Entrada: (-1.0322, 0.3945, -0.2214)
+  Salida: (-1.0092, 0.3945, -0.2407)
+  Distancia: 0.0300
+
+Par #2:
+  Entrada: (-1.0583, 0.3945, -0.2489)
+  Salida: (-1.0354, 0.3945, -0.2682)
+  Distancia: 0.0300
+
+Par #3:
+  Entrada: (-1.0863, 0.3945, -0.2782)
+  Salida: (-1.0633, 0.3945, -0.2975)
+  Distancia: 0.0300
+
