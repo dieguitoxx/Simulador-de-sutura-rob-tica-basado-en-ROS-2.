@@ -31,5 +31,5 @@ La información está organizada en ramas, de manera que cada una agrupa un aspe
 Simulador-de-sutura-rob-tica-basado-en-ROS-2.
 │── README.md              → Documentación principal (esta página)
 ├── ros2/                  → Nodos y scripts en ROS 2
-├── unity/                 → Proyecto Unity para gemelo digital
+├── unity/                 → Proyecto Unity
 └── Multimedia/            → Videos y recursos audiovisuales
