@@ -33,6 +33,7 @@ Simulador-de-sutura-rob-tica-basado-en-ROS-2.
 ├── ros2/                  → Nodos y scripts en ROS 2
 ├── unity/                 → Proyecto Unity
 └── Multimedia/            → Videos y recursos audiovisuales
+```
 
 ---
 
